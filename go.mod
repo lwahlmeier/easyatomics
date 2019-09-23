@@ -1,3 +1,3 @@
-module github.com/lwahlmeier/go-atomics
+module github.com/lwahlmeier/easyatomics
 
 go 1.12
